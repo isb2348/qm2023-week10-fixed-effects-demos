@@ -10,7 +10,7 @@ Teaching demos for Week 10 of `QM 2023: Statistics II / Data Analytics`.
 
 ## Quick Start
 
-1. Create and activate a Python virtual environment.
+1. Install the python and jupyter notebook vscode integration. Do not create a Python virtual environment.
 2. Install packages with `pip install -r requirements.txt`.
 3. Open `fixed_effects_demo.ipynb` in Jupyter or VS Code and run the cells in order.
 
